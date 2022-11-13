@@ -7,11 +7,11 @@
 
 [3. Краткая информация о данных](https://github.com/Mayoles/SF_data_science/blob/main/project_0/README.md#краткая-информация-о-данных)
 
-[4. Этапы работы над проектом]()
+[4. Этапы работы над проектом](https://github.com/Mayoles/SF_data_science/blob/main/project_0/README.md#этапы-работы-над-проектом)
 
-[5. Результат]()
+[5. Результат](https://github.com/Mayoles/SF_data_science/blob/main/project_0/README.md#результат)
 
-[6. Выводы]()
+[6. Выводы](https://github.com/Mayoles/SF_data_science/blob/main/project_0/README.md#выводы)
 
 ### Описание проекта
 Угадать загаданное компьютером число за минимальное число попыток.
