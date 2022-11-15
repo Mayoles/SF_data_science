@@ -20,7 +20,7 @@ def random_predict(number:int=1) -> int:
     number = np.random.randint(min, max) # Загаданное число
     
     while True:
-        count+=1
+        count += 1
         predict_number = int((max+min) / 2) # Предполагаемое число
         
         if predict_number > number:
