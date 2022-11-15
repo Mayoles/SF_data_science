@@ -1,22 +1,22 @@
 # Проект 0. Угадай число
 
 ## Оглавление
-[1. Описание проекта](https://github.com/Mayoles/SF_data_science/tree/main/project_0)
+[1. Описание проекта](https://github.com/Mayoles/SF_data_science/tree/main/final_project_0#описание-проекта)
 
-[2. Какой кейс решаем?](https://github.com/Mayoles/SF_data_science/blob/main/project_0/README.md#какой-кейс-решаем)
+[2. Какой кейс решаем?](https://github.com/Mayoles/SF_data_science/tree/main/final_project_0#какой-кейс-решаем)
 
-[3. Краткая информация о данных](https://github.com/Mayoles/SF_data_science/blob/main/project_0/README.md#краткая-информация-о-данных)
+[3. Краткая информация о данных](https://github.com/Mayoles/SF_data_science/tree/main/final_project_0#краткая-информация-о-данных)
 
-[4. Этапы работы над проектом](https://github.com/Mayoles/SF_data_science/blob/main/project_0/README.md#этапы-работы-над-проектом)
+[4. Этапы работы над проектом](https://github.com/Mayoles/SF_data_science/tree/main/final_project_0#этапы-работы-над-проектом)
 
-[5. Результат](https://github.com/Mayoles/SF_data_science/blob/main/project_0/README.md#результат)
+[5. Результат](https://github.com/Mayoles/SF_data_science/tree/main/final_project_0#результат)
 
-[6. Выводы](https://github.com/Mayoles/SF_data_science/blob/main/project_0/README.md#выводы)
+[6. Выводы](https://github.com/Mayoles/SF_data_science/tree/main/final_project_0#выводы)
 
 ### Описание проекта
 Угадать загаданное компьютером число за минимальное число попыток.
 
-:arrow_up:[к оглавлению]()
+:arrow_up:[к оглавлению](https://github.com/Mayoles/SF_data_science/tree/main/final_project_0#оглавление)
 
 ### Какой кейс решаем?
 Нужно написать программу, которая угадывает число за минимальное количество попыток.
@@ -37,11 +37,12 @@
 ....
 
 ### Этапы работы над проектом
-Проект на этапы не разбивался
+В ходе реализации проекта было написан алгоритм, число для угадывания в котором выбиралось примерно в середине диапазона. Каждый раз диапазон для угадывания уменьшался примерно в 2 раза.
 
 ### Результат
 Написан код, который находит число за минимальное количество попыток.
 
 ### Выводы
-....
-:arrow_up:[к оглавлению]()
+Метод, с помощью которого была написана программа, позволяет угадывать число за наименьшее число попыток.
+
+:arrow_up:[к оглавлению](https://github.com/Mayoles/SF_data_science/tree/main/final_project_0#оглавление)
