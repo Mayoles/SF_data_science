@@ -33,7 +33,6 @@ def random_predict(number:int=1) -> int:
             break #конец игры выход из цикла
         
     return count
-   
     
 def score_game(random_predict) -> int:
     """За какое количество попыток в среднем за 10000 подходов угадывает наш алгоритм
